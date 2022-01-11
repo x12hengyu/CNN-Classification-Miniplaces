@@ -1,0 +1,183 @@
+1. default configuration: batch-32 learn rate-0.001 epoch-10
+[Training set] Epoch: 1, Average loss: 4.5540
+[Test set] Epoch: 1, Accuracy: 4.14%
+[Training set] Epoch: 2, Average loss: 4.1519
+[Test set] Epoch: 2, Accuracy: 8.55%
+[Training set] Epoch: 3, Average loss: 3.9439
+[Test set] Epoch: 3, Accuracy: 10.82%
+[Training set] Epoch: 4, Average loss: 3.8281
+[Test set] Epoch: 4, Accuracy: 12.70%
+[Training set] Epoch: 5, Average loss: 3.7298
+[Test set] Epoch: 5, Accuracy: 13.71%
+[Training set] Epoch: 6, Average loss: 3.6512
+[Test set] Epoch: 6, Accuracy: 15.21%
+[Training set] Epoch: 7, Average loss: 3.5920
+[Test set] Epoch: 7, Accuracy: 14.87%
+[Training set] Epoch: 8, Average loss: 3.5408
+[Test set] Epoch: 8, Accuracy: 15.66%
+[Training set] Epoch: 9, Average loss: 3.4979
+[Test set] Epoch: 9, Accuracy: 16.42%
+[Training set] Epoch: 10, Average loss: 3.4598
+[Test set] Epoch: 10, Accuracy: 16.69%
+
+Eval
+[Test set] Epoch: 10, Accuracy: 16.69% 
+2. Set the batch size to 8, the remaining configurations are kept the same.
+[Training set] Epoch: 1, Average loss: 4.2227
+[Test set] Epoch: 1, Accuracy: 9.21%
+[Training set] Epoch: 2, Average loss: 3.8463
+[Test set] Epoch: 2, Accuracy: 13.28%
+[Training set] Epoch: 3, Average loss: 3.6923
+[Test set] Epoch: 3, Accuracy: 14.31%
+[Training set] Epoch: 4, Average loss: 3.5965
+[Test set] Epoch: 4, Accuracy: 15.79%
+[Training set] Epoch: 5, Average loss: 3.5289
+[Test set] Epoch: 5, Accuracy: 15.75%
+[Training set] Epoch: 6, Average loss: 3.4798
+[Test set] Epoch: 6, Accuracy: 16.81%
+[Training set] Epoch: 7, Average loss: 3.4425
+[Test set] Epoch: 7, Accuracy: 17.38%
+[Training set] Epoch: 8, Average loss: 3.4102
+[Test set] Epoch: 8, Accuracy: 17.15%
+[Training set] Epoch: 9, Average loss: 3.3828
+[Test set] Epoch: 9, Accuracy: 17.77%
+[Training set] Epoch: 10, Average loss: 3.3543
+[Test set] Epoch: 10, Accuracy: 17.18%
+
+Eval 
+[Test set] Epoch: 9, Accuracy: 17.77%
+
+3. Set the batch size to 16, the remaining configurations are kept the same.
+[Training set] Epoch: 1, Average loss: 4.3813
+[Test set] Epoch: 1, Accuracy: 7.54%
+[Training set] Epoch: 2, Average loss: 3.9553
+[Test set] Epoch: 2, Accuracy: 10.57%
+[Training set] Epoch: 3, Average loss: 3.7976
+[Test set] Epoch: 3, Accuracy: 13.04%
+[Training set] Epoch: 4, Average loss: 3.6791
+[Test set] Epoch: 4, Accuracy: 14.96%
+[Training set] Epoch: 5, Average loss: 3.5866
+[Test set] Epoch: 5, Accuracy: 15.52%
+[Training set] Epoch: 6, Average loss: 3.5186
+[Test set] Epoch: 6, Accuracy: 16.93%
+[Training set] Epoch: 7, Average loss: 3.4648
+[Test set] Epoch: 7, Accuracy: 16.79%
+[Training set] Epoch: 8, Average loss: 3.4197
+[Test set] Epoch: 8, Accuracy: 17.53%
+[Training set] Epoch: 9, Average loss: 3.3795
+[Test set] Epoch: 9, Accuracy: 18.03%
+[Training set] Epoch: 10, Average loss: 3.3460
+[Test set] Epoch: 10, Accuracy: 18.56%
+
+Eval
+[Test set] Epoch: 10, Accuracy: 18.56%
+
+4. Set the learning rate to 0.05, the remaining configurations are kept the same.
+[Training set] Epoch: 1, Average loss: 4.4033
+[Test set] Epoch: 1, Accuracy: 3.57%
+[Training set] Epoch: 2, Average loss: 4.3432
+[Test set] Epoch: 2, Accuracy: 4.45%
+[Training set] Epoch: 3, Average loss: 4.3189
+[Test set] Epoch: 3, Accuracy: 4.66%
+[Training set] Epoch: 4, Average loss: 4.3050
+[Test set] Epoch: 4, Accuracy: 3.65%
+[Training set] Epoch: 5, Average loss: 4.3125
+[Test set] Epoch: 5, Accuracy: 3.70%
+[Training set] Epoch: 6, Average loss: 4.3041
+[Test set] Epoch: 6, Accuracy: 4.37%
+[Training set] Epoch: 7, Average loss: 4.3015
+[Test set] Epoch: 7, Accuracy: 3.65%
+[Training set] Epoch: 8, Average loss: 4.2950
+[Test set] Epoch: 8, Accuracy: 2.40%
+[Training set] Epoch: 9, Average loss: 4.3042
+[Test set] Epoch: 9, Accuracy: 4.71%
+[Training set] Epoch: 10, Average loss: 4.3088
+[Test set] Epoch: 10, Accuracy: 4.16%
+
+Eval
+[Test set] Epoch: 9, Accuracy: 4.71%
+
+5. Set the learning rate to 0.01, the remaining configurations are kept the same.
+[Training set] Epoch: 1, Average loss: 4.1310
+[Test set] Epoch: 1, Accuracy: 9.70%
+[Training set] Epoch: 2, Average loss: 3.8381
+[Test set] Epoch: 2, Accuracy: 11.26%
+[Training set] Epoch: 3, Average loss: 3.7501
+[Test set] Epoch: 3, Accuracy: 12.65%
+[Training set] Epoch: 4, Average loss: 3.6963
+[Test set] Epoch: 4, Accuracy: 13.50%
+[Training set] Epoch: 5, Average loss: 3.6665
+[Test set] Epoch: 5, Accuracy: 14.01%
+[Training set] Epoch: 6, Average loss: 3.6408
+[Test set] Epoch: 6, Accuracy: 13.52%
+[Training set] Epoch: 7, Average loss: 3.6278
+[Test set] Epoch: 7, Accuracy: 13.56%
+[Training set] Epoch: 8, Average loss: 3.6170
+[Test set] Epoch: 8, Accuracy: 14.31%
+[Training set] Epoch: 9, Average loss: 3.5972
+[Test set] Epoch: 9, Accuracy: 14.36%
+[Training set] Epoch: 10, Average loss: 3.5810
+[Test set] Epoch: 10, Accuracy: 13.36%
+
+Eval
+[Test set] Epoch: 9, Accuracy: 14.36%
+
+6. Set the epochs to 20, the remaining configurations are kept the same.
+[Training set] Epoch: 1, Average loss: 4.5540
+[Test set] Epoch: 1, Accuracy: 4.14%
+[Training set] Epoch: 2, Average loss: 4.1519
+[Test set] Epoch: 2, Accuracy: 8.55%
+[Training set] Epoch: 3, Average loss: 3.9439
+[Test set] Epoch: 3, Accuracy: 10.82%
+[Training set] Epoch: 4, Average loss: 3.8281
+[Test set] Epoch: 4, Accuracy: 12.70%
+[Training set] Epoch: 5, Average loss: 3.7298
+[Test set] Epoch: 5, Accuracy: 13.71%
+[Training set] Epoch: 6, Average loss: 3.6512
+[Test set] Epoch: 6, Accuracy: 15.21%
+[Training set] Epoch: 7, Average loss: 3.5920
+[Test set] Epoch: 7, Accuracy: 14.87%
+[Training set] Epoch: 8, Average loss: 3.5408
+[Test set] Epoch: 8, Accuracy: 15.66%
+[Training set] Epoch: 9, Average loss: 3.4979
+[Test set] Epoch: 9, Accuracy: 16.42%
+[Training set] Epoch: 10, Average loss: 3.4598
+[Test set] Epoch: 10, Accuracy: 16.69%
+[Training set] Epoch: 11, Average loss: 3.4261
+[Test set] Epoch: 11, Accuracy: 16.90%
+[Training set] Epoch: 12, Average loss: 3.3959
+[Test set] Epoch: 12, Accuracy: 17.87%
+[Training set] Epoch: 13, Average loss: 3.3657
+[Test set] Epoch: 13, Accuracy: 18.43%
+[Training set] Epoch: 14, Average loss: 3.3372
+[Test set] Epoch: 14, Accuracy: 18.06%
+[Training set] Epoch: 15, Average loss: 3.3153
+[Test set] Epoch: 15, Accuracy: 18.82%
+[Training set] Epoch: 16, Average loss: 3.2890
+[Test set] Epoch: 16, Accuracy: 18.80%
+[Training set] Epoch: 17, Average loss: 3.2683
+[Test set] Epoch: 17, Accuracy: 18.68%
+[Training set] Epoch: 18, Average loss: 3.2463
+[Test set] Epoch: 18, Accuracy: 19.09%
+[Training set] Epoch: 19, Average loss: 3.2244
+[Test set] Epoch: 19, Accuracy: 18.98%
+[Training set] Epoch: 20, Average loss: 3.2066
+[Test set] Epoch: 20, Accuracy: 19.96%
+
+Eval
+[Test set] Epoch: 20, Accuracy: 19.96%
+
+7. Set the epochs to 5, the remaining configurations are kept the same.
+[Training set] Epoch: 1, Average loss: 4.5540
+[Test set] Epoch: 1, Accuracy: 4.14%
+[Training set] Epoch: 2, Average loss: 4.1519
+[Test set] Epoch: 2, Accuracy: 8.55%
+[Training set] Epoch: 3, Average loss: 3.9439
+[Test set] Epoch: 3, Accuracy: 10.82%
+[Training set] Epoch: 4, Average loss: 3.8281
+[Test set] Epoch: 4, Accuracy: 12.70%
+[Training set] Epoch: 5, Average loss: 3.7298
+[Test set] Epoch: 5, Accuracy: 13.71%
+
+Eval
+[Test set] Epoch: 5, Accuracy: 13.71%
